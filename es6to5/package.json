@@ -1,0 +1,21 @@
+{
+  "name": "es6to5",
+  "version": "0.0.0",
+  "description": "convert es6 to es5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:witekcc/js-examples-es6to5.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "WC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/witekcc/js-examples-es6to5/issues"
+  }
+}
